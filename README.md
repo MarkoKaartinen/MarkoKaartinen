@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+This is currently work in progress...
+
+#### Personal projects
+- [Foorumi.co](https://github.com/foorumico)
+
+#### Work
+- [Elysium Solutions Oy](https://github.com/elysiumsolutions)
+- [Esoter Oy](https://github.com/esoter)
+- [Pieni Pala Verkkoa](https://github.com/pienipalaverkkoa)
+
 <!--
 **MarkoKaartinen/MarkoKaartinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
