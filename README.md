@@ -3,24 +3,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkoKaartinen&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 #### Personal projects
-- [Foorumi.co](https://github.com/foorumico)
+[![Foorumi.co](https://img.shields.io/badge/Foorumi.co-0891b2?&style=for-the-badge&logo=Github)](https://github.com/foorumico)
 
 #### Work
-- [Elysium Solutions Oy](https://github.com/elysiumsolutions)
-- [Esoter Oy](https://github.com/esoter)
-- [Pieni Pala Verkkoa](https://github.com/pienipalaverkkoa)
-
-<!--
-**MarkoKaartinen/MarkoKaartinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Elysium Solutions Oy](https://img.shields.io/badge/Elysium%20Solutions%20-94cf1c?&style=for-the-badge&logo=Github)](https://github.com/elysiumsolutions) [![Esoter Oy](https://img.shields.io/badge/Esoter%20Oy-3182ce?&style=for-the-badge&logo=Github)](https://github.com/esoter) [![Pieni Pala Verkkoa](https://img.shields.io/badge/Pieni%20Pala%20Verkkoa-00ad87?&style=for-the-badge&logo=Github)](https://github.com/pienipalaverkkoa)
