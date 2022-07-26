@@ -1,6 +1,6 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7FA1C1&vCenter=true&multiline=true&height=75&lines=Hyvvee+p%C3%A4evee!;Hello!)](https://git.io/typing-svg)
 
-This is currently work in progress...
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarkoKaartinen&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 #### Personal projects
 - [Foorumi.co](https://github.com/foorumico)
